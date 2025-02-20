@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java that results in an ArrayIndexOutOfBoundsException. The buggy code attempts to access an array element beyond its valid index range.  The solution shows how to correct the loop condition to avoid the error.  This is a valuable example for understanding array boundaries and common pitfalls in array manipulation.
